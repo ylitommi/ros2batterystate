@@ -1,0 +1,5 @@
+  File "/home/kayttaja/own_package_ws/install/first_pkg_py/lib/python3.10/site-packages/first_pkg_py/first_node.py", line 5
+    from 
+         ^
+SyntaxError: invalid syntax
+
